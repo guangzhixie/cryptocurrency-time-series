@@ -1,4 +1,4 @@
 # Cryptocurrency Time Series
 Cryptocurrency price prediction with deep learning.
 
-Ethereum price data obtained from [Kaggle](https://www.kaggle.com/kingburrito666/ethereum-historical-data)
+Data obtained from [Kaggle](https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data)
